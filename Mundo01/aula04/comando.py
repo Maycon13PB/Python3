@@ -1,0 +1,7 @@
+print("Ola mundo")
+print(7+4)
+print("7"+"4")
+nome = input ("Qual e o seu nome: ")
+peso = input ("Qual e o seu peso: ")
+idade = input ("Qual e sua idade: ")
+print(nome,idade,peso)
